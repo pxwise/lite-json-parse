@@ -1,0 +1,27 @@
+{
+  "name": "lite-json-parse",
+  "version": "0.0.1",
+  "description": "Lightweight JSON parse errback function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pxwise/lite-json-parse.git"
+  },
+  "keywords": [
+    "json",
+    "parse",
+    "try",
+    "catch",
+    "lightweight",
+    "lite"
+  ],
+  "author": "Shawn Stedman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pxwise/lite-json-parse/issues"
+  },
+  "homepage": "https://github.com/pxwise/lite-json-parse"
+}
