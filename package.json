@@ -1,6 +1,6 @@
 {
   "name": "lite-json-parse",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lightweight JSON parse errback function",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,9 @@
     "try",
     "catch",
     "lightweight",
-    "lite"
+    "lite",
+    "errback",
+    "nodeback"
   ],
   "author": "Shawn Stedman",
   "license": "MIT",
